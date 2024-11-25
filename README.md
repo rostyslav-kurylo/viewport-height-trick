@@ -1,5 +1,5 @@
 # viewport-height-trick
-A little trick that fix problem with CSS vh units (as such units does not widely supports in browsers) by using CSS Custom Properties.<br/>
+A little trick that fix problem with CSS dvh units (as such units does not widely supports in browsers) by using CSS Custom Properties.<br/>
 Example of usage:
 ```
 .container {
